@@ -58,7 +58,6 @@ const Placeholder = ({title}: { title: string }) => (
         </div>
     </div>
 );
-
 export const AppRoutes = () => {
     const location = useLocation();
     console.log(location.pathname);
