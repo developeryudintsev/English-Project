@@ -119,7 +119,6 @@ export const AppRoutes = () => {
                                 py: 1,
                             }}
                         >
-                            {/* Левая часть — текст */}
                             <Box
                                 sx={{
                                     display: 'flex',
